@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LLM Connector</string>
+    <string name="connection_success">Koneksi Berhasil ke LM Studio!</string>
+    <string name="connection_failed">Koneksi Gagal ke LM Studio!</string>
+    <string name="ip_address_empty">IP Address tidak boleh kosong!</string>
+    <string name="check_ip">Check IP</string>
+    <string name="enter_ip">Masukkan IP LM Studio:</string>
+    <string name="ip_address_not_detected">IP address tidak terdeteksi, mohon kembali ke halaman login.</string>
+    <string name="empty_message">Pesan tidak boleh kosong</string>
+    <string name="connection_failed_lm_studio">Koneksi ke LM Studio gagal. Mohon periksa IP Address Anda.</string>
+    <string name="connected_to_lm_studio">Terhubung dengan LM Studio.</string>
+    <string name="waiting_for_ai_response">Menunggu respon dari AI...</string>
+    <string name="error_invalid_url">Error: URL tidak valid</string>
+    <string name="error_connection_failed">Error: Gagal terhubung ke server atau masalah jaringan: </string>
+    <string name="error_json_payload">Error: Gagal membuat JSON payload</string>
+    <string name="ai_response_failed_toast">Gagal mendapatkan respon AI. Lihat pesan error di atas.</string>
+    <string name="no_ai_response">Tidak ada respon dari AI. Periksa koneksi atau konfigurasi LM Studio.</string>
+    <string name="message_cancelled">Pengiriman pesan dibatalkan.</string>
+</resources>
